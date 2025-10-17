@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DeepEval 101: LLM Evaluation with Google Gemini
 
 A comprehensive tutorial and implementation of LLM evaluation using DeepEval with Google's Gemini model. This project demonstrates how to evaluate the quality of AI-generated content using multiple metrics including coherence, groundedness, relevance, accuracy, and completeness.
@@ -217,6 +216,3 @@ For questions and support:
 - Check the [DeepEval documentation](https://deepeval.com/docs/getting-started)
 - Open an issue in this repository
 - Join the DeepEval community discussions
-=======
-# DeepEval_101
->>>>>>> 615729093b4af624128c19a03ad6a90def0e7d1b
